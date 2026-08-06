@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**WanderDuarte/WanderDuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# WANDER DUARTE
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 WANDER AI CORE
+
+```text
+╭────────────────────────────╮
+│     WANDER SYSTEM v2.0     │
+╰────────────────────────────╯
+
+Initializing system...
+
+████████████████████ 100%
+
+✔ Developer detected
+✔ Creativity enabled
+✔ Code engine activated
+✔ Projects loaded
+
+STATUS: ONLINE 🚀
