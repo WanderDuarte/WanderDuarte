@@ -44,6 +44,4 @@ construir soluções completas, do dado ao produto final.
 - [ ] Banco de dados (SQL)
 - [ ] Pós Gradução (Full Stack) 
 
-## 📊 GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true)
