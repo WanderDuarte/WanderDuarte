@@ -5,7 +5,7 @@
 
 📍 Araçatuba, SP · Brasil
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](mailto:www.linkedin.com/in/wander-duarte-785467450)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](link:www.linkedin.com/in/wander-duarte-785467450)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wandermuriel@gmail.com)
 
 </div>
